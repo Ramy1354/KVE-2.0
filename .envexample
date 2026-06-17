@@ -1,0 +1,4 @@
+CLIENT_ID=Discord bots ID
+DISCORD_TOKEN=Discord bots token.
+GROQ_API_KEY=The GROQ API Key to run the talking bot.
+GROQ_MODEL=llama-3.3-70b-versatile
